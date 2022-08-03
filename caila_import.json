@@ -16,6 +16,386 @@
     "shared" : false
   },
   "intents" : [ {
+    "id" : 11426619,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Как вернуть товар?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Как вернуть товар?"
+    }, {
+      "text" : "как оформить возврат?"
+    }, {
+      "text" : "товар не подошел!"
+    }, {
+      "text" : "хочу вернуть покупку"
+    }, {
+      "text" : "правила возврата заказа"
+    }, {
+      "text" : "хочу подать на возврат"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426620,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Как отследить заказ?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Как отследить заказ?"
+    }, {
+      "text" : "где посмотреть статус заказа"
+    }, {
+      "text" : "как узнать что происходит с заказом"
+    }, {
+      "text" : "Возможен ли трекинг"
+    }, {
+      "text" : "где найти трек номер"
+    }, {
+      "text" : "отслеживание заказов"
+    }, {
+      "text" : "как следить за статусом заказа?"
+    }, {
+      "text" : "где мой заказ"
+    }, {
+      "text" : "заказ уже долго идет"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426621,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Вы сможете красиво упаковать?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "можно красиво завернуть"
+    }, {
+      "text" : "Завернуть товар в бумагу"
+    }, {
+      "text" : "есть ли у вас подарочная упаковка?"
+    }, {
+      "text" : "Вы сможете красиво упаковать?"
+    }, {
+      "text" : "упакуете мне подарок на праздник"
+    }, {
+      "text" : "нужна подарочная упаковка"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426622,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Как мне доставят заказ?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "какие есть варианты доставки "
+    }, {
+      "text" : "Как вы доставляете"
+    }, {
+      "text" : "какая у вас есть доставка"
+    }, {
+      "text" : "с какими курьерскими службами вы сотрудничаете"
+    }, {
+      "text" : "Как мне доставят заказ?"
+    }, {
+      "text" : "кто привезет товар"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426623,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Есть ли доставка за рубеж?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Есть ли доставка за рубеж?"
+    }, {
+      "text" : "доставка на зарубежный адрес"
+    }, {
+      "text" : "возможно заказать на иностранный адрес"
+    }, {
+      "text" : "нахожусь заграницей сможете доставить"
+    }, {
+      "text" : "вы отправляете в другую страну"
+    }, {
+      "text" : "вы делаете доставку в другие страны"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426624,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Нужен консультант",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "помогите с выбором"
+    }, {
+      "text" : "порекомендуйте товар!"
+    }, {
+      "text" : "не могу определиться"
+    }, {
+      "text" : "нужна консультация по товару"
+    }, {
+      "text" : "подскажите какой товар лучше"
+    }, {
+      "text" : "проконсультируйте меня по предложениям"
+    }, {
+      "text" : "Нужен консультант"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426625,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Оптом будет дешевле?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Оптом будет дешевле?"
+    }, {
+      "text" : "какие условия для оптовых покупателей"
+    }, {
+      "text" : "есть ли скидки оптом"
+    }, {
+      "text" : "Специальные цены для оптовиков"
+    }, {
+      "text" : "требуется заказать много товара"
+    }, {
+      "text" : "от какого количества товара скидки"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426626,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Можно ли проверить товар при доставке?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Можно ли проверить товар при доставке?"
+    }, {
+      "text" : "доступна ли примерка"
+    }, {
+      "text" : "удостовериться в товаре"
+    }, {
+      "text" : "могу я вскрыть посылку при получении"
+    }, {
+      "text" : "хочу проверить товар до выкупа"
+    }, {
+      "text" : "осмотреть товар при курьере"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426627,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Каковы условия программы лояльности?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Каковы условия программы лояльности?"
+    }, {
+      "text" : "что дает карта лояльности?"
+    }, {
+      "text" : "карта постоянного покупателя"
+    }, {
+      "text" : "как оформить карту лояльности"
+    }, {
+      "text" : "уровни карты постоянного клиента"
+    }, {
+      "text" : "хочу участвовать в программе лояльности"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426628,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Какие способы оплаты доступны?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Какие способы оплаты доступны?"
+    }, {
+      "text" : "как можно оплатить заказ?"
+    }, {
+      "text" : "оплата при получении"
+    }, {
+      "text" : "можно заплатить картой"
+    }, {
+      "text" : "хочу оплатить сразу на сайте"
+    }, {
+      "text" : "оплата курьеру"
+    }, {
+      "text" : "как можно оплатить заказ"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426629,
+    "path" : "/KnowledgeBase/FAQ.Ритейл",
+    "enabled" : true,
+    "shared" : false,
+    "priority" : 0
+  }, {
+    "id" : 11426611,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Сколько стоит доставка?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Сколько стоит доставка?"
+    }, {
+      "text" : "доплата за курьера"
+    }, {
+      "text" : "доставка бесплатная"
+    }, {
+      "text" : "можно ли не оплачивать доставку"
+    }, {
+      "text" : "как рассчитывается цена доставки"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426612,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Как отменить заказ?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Как отменить заказ?"
+    }, {
+      "text" : "нужно сделать отмену"
+    }, {
+      "text" : "требуется отмена заказа"
+    }, {
+      "text" : "отменить случайный заказ"
+    }, {
+      "text" : "куда нажать чтобы аннулировать заказ?"
+    }, {
+      "text" : "хочу отменить сделанный заказ"
+    }, {
+      "text" : "передумала покупать товар"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426613,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Могу ли я платить в рассрочку?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "есть ли оплата частями"
+    }, {
+      "text" : "можно ли платить по частям"
+    }, {
+      "text" : "разбить оплату на части"
+    }, {
+      "text" : "хочу разделить чек"
+    }, {
+      "text" : "нужна рассрочка платежа"
+    }, {
+      "text" : "Могу ли я платить в рассрочку?"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426614,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Как сделать заказ?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Как сделать заказ?"
+    }, {
+      "text" : "процесс оформления заказа"
+    }, {
+      "text" : "хочу оформить заказ"
+    }, {
+      "text" : "как я могу заказать товары?"
+    }, {
+      "text" : "что сделать чтобы завершить заказ"
+    }, {
+      "text" : "не получается оформить заказ"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426615,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Каковы условия покупки для юрлиц?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Каковы условия покупки для юрлиц?"
+    }, {
+      "text" : "оформления заказа на юридическое лицо"
+    }, {
+      "text" : "могут ли заказывать юрлица"
+    }, {
+      "text" : "оформить покупку на имя компании"
+    }, {
+      "text" : "могу ли я заказать для ИП"
+    }, {
+      "text" : "я юридическое лицо как заказать"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426616,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Есть ли самовывоз?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Есть ли самовывоз?"
+    }, {
+      "text" : "забрать товар самому"
+    }, {
+      "text" : "забрать из магазина"
+    }, {
+      "text" : "доступен самовывоз?"
+    }, {
+      "text" : "хочу подъехать самостоятельно"
+    }, {
+      "text" : "забрать товар из магазина"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426617,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Какие акции сейчас действуют?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Какие акции сейчас действуют?"
+    }, {
+      "text" : "покажите акционные предложения"
+    }, {
+      "text" : "Действующие акции"
+    }, {
+      "text" : "где посмотреть специальные предложения"
+    }, {
+      "text" : "какие товары по акции"
+    }, {
+      "text" : "узнать об актуальных акциях"
+    }, {
+      "text" : "сезонные скидки"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11426618,
+    "path" : "/KnowledgeBase/FAQ.Ритейл/Root/Какие есть льготы?",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "есть ли выгодные условия для многодетных семей"
+    }, {
+      "text" : "Какие есть льготы?"
+    }, {
+      "text" : "льготные цены для пожилых"
+    }, {
+      "text" : "какие скидки для студентов"
+    }, {
+      "text" : "скидки для льготников"
+    }, {
+      "text" : " условия для льготных категорий граждан"
+    }, {
+      "text" : "специальные условия для детей"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
     "id" : 11151531,
     "path" : "/пока",
     "enabled" : true,
@@ -32,6 +412,396 @@
     "phrases" : [ {
       "text" : "привет"
     } ],
+    "priority" : 0
+  }, {
+    "id" : 11343768,
+    "path" : "/Yes",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "@yes *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343769,
+    "path" : "/No",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "@no", "@disagree *", "@no @thanks" ],
+    "priority" : 0
+  }, {
+    "id" : 11343770,
+    "path" : "/Number",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "@duckling.number" ],
+    "priority" : 0
+  }, {
+    "id" : 11343771,
+    "path" : "/ColorInStock",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * {color* * stock*} *", " * {red* * stock*} *", "* {@Stock * (color*/colour*)} *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343772,
+    "path" : "/Vegan",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* (vegan/cruelty free/cruelty-free) *", "*  test* on aminal* *", "*  [contain*]  *  animal* ingredient* *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343773,
+    "path" : "/ParametersForSize",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " *  [@can @you] [@tellMe]  [what are] * (param*/measurement*/waist/hips/breast/size chart) [for/of] {@ClothSizes size}" ],
+    "priority" : 0
+  }, {
+    "id" : 11343774,
+    "path" : "/Size Guide",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* {siz* quide} *", "* measur* *", "* {siz* guide} *", "* fitting *", "* {(it/size) * (fit*/suit*) me} *", " *  [@can @you] [@tellMe]  [what are] * (param*/measurement*/waist/hips/breast/size chart) [for/of] " ],
+    "priority" : 0
+  }, {
+    "id" : 11343775,
+    "path" : "/Sizes",
+    "enabled" : false,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * [what (is/s)/what's/what 's/([what [@can @you]] [please] (@tellMe/@give [@info]) [about/for/on]/[what] about)] * ([the] @sizes) *", " * is ([the/this/that] * (@product/@laptop/thing/it/one)) * @sizesAdj *", " * how @sizesAdj is ([the/this/that] * (@product/@laptop/thing/it/one)) *", "* {size* * availa*} * " ],
+    "priority" : 0
+  }, {
+    "id" : 11343776,
+    "path" : "/FullDescription",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * {(@more [@info]) * ((about/on) ([the/this/that] * (@product/@laptop)))} *", " * {([@can @you] [please] (@tellMe/@give)) * @more [@info] ([about/of/for/on [the/this/that]] * (@product/@laptop/thing))} *", " * [@can @you] [please] [@give] * [a/an/the] {@full * (description*/account*)} *", " * {(@more @info) * [[about/on/for [the/this/that]] * (@product/@laptop)]} *", " * {([@can @you] [please] (@tellMe/@give)) * @more [@info] ([about/of/for/on] (this/it/that) [one])} * " ],
+    "priority" : 0
+  }, {
+    "id" : 11343777,
+    "path" : "/Sustainability",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "*  sustain* *", "sustainability program" ],
+    "priority" : 0
+  }, {
+    "id" : 11343778,
+    "path" : "/Returns",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * @iWantToKnow [@more] [@info] [about] * ([the] @refund) *", " * [@iWantToKnow] [@more] [@info] about * ([the] @refund) *", " * {@canYouTellMe * [@info] ([about/on] * ([the] @refund))} *", " * [@iWantToKnow/@canYouTellMe] [@info] [about/on] [how] ({@can i}/{is it} possible to) * (return*/refund) [a/an/the] @item [back] *", " * [@iWantToKnow/@canYouTellMe] [@info] [about/on] [how] ({@can i}/{is it} possible to) * {(bring/give/send/hand) * @item (back/over)} *", " * [@iWantToKnow/@canYouTellMe] [@info] [about/on] [how] ({@can i}/{is it} possible to) * (get/receive/be) * (@refund/repaid/re paid/paid back) *", "@refund" ],
+    "priority" : 0
+  }, {
+    "id" : 11343779,
+    "path" : "/OtherOptions",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "Check other options" ],
+    "priority" : 0
+  }, {
+    "id" : 11343780,
+    "path" : "/Warranty",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * [([what [@can @you]] [please] (@tellMe/@give [@info]) [about/for/on]/[what] about)] * {([the] (warrant*/guarant*)) * [period]} *", " * [[how] long] [is] * {([the] (warrant*/guarant*)) * [period]} *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343781,
+    "path" : "/Memory",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * [([what [@can @you]] [please] (@tellMe/@give [@info]) [about/for/on]/[what] about)] * ([the] [random access] (memory/RAM)) *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343782,
+    "path" : "/WhatColour",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * [([@can @you] [please] (@tellMe/@give)/@iWantToKnow) * [@more] [@info] [about/on] [the]] * {(availab*/exist*) * @options} *", " * {what are [the] (@options/@colour)} *", " * {[what/which] are (there/present) [any] * @options} *", " * is ([the/this/that] * (@product/@laptop/it/this/thing)) in [the/your/ur] @reserve *", " * [what] * [do] @you have [[the/this/that] * (@product/@laptop/it/this/thing)] in [the/your/ur] @reserve *", " * (what/which) * @colour * ([do] @you have/{are there}/is (it/[the/this/that] (@product/@laptop/thing/one))) *", " * what about [the] (colour*/color*) *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343783,
+    "path" : "/CheckTheSilver",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * {[i [am/m/i'm/i 'm/(would/d/i'd/i 'd) [like to]/will/ll/i'll/i 'll]] @checkOut * ([the/a] @silver [@laptop/@options/one])} *", " * ([do] @you have/is) [there] [a/the] @silver [version*] * (@laptop/one) [in] [@reserve] *", " [i [would/d/i'd/i 'd/will/ll/i'll/i 'll] (prefer/like/choose/pick/want)] * [the] @silver [@product/@laptop/one]" ],
+    "priority" : 0
+  }, {
+    "id" : 11343784,
+    "path" : "/CallAssistant",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * [i] * (i (need/want/requir*)/(ask*/call*) [for]/seek*) * [an] (assistan*/support/aid) *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343785,
+    "path" : "/CheckTheBlack",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * {[i [am/m/i'm/i 'm/(would/d/i'd/i 'd) [like to]/will/ll/i'll/i 'll]] @checkOut * ([the/a] @black [@laptop/@options/one])} *", " * ([do] @you have/is) [a/the] @black [version*] * (@laptop/one) [in] [@reserve] *", " [i [would/d/i'd/i 'd/will/ll/i'll/i 'll] (prefer/like/choose/pick/want)] * [the] @black [@product/@laptop/one]" ],
+    "priority" : 0
+  }, {
+    "id" : 11343786,
+    "path" : "/PlaceOrder",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * @iWantTo [place] [an] order *", " * place [an] order *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343787,
+    "path" : "/AboutTheStore",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * [@iWantToKnow] [@more] [@info] about ([the/this/your/ur] * (store/shop)) *", " * {@canYouTellMe * [@info] ([about/on [the/this/your/ur]] * (store/shop))} *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343788,
+    "path" : "/Delivery",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * [@iWantToKnow] [@more] [@info] [about] ([the] (deliver*/ship*/send*/mail*/(pickup*/pick* * up) [point*]/collect* point*)) *", " * {[@canYouTellMe] * [@info] ([about/on [the]] (deliver*/ship*/send*/mail*/(pickup*/pick* * up) [point*]/collect* point*))} *", "(deliver*/ship*/send*/mail*/(pickup*/pick* * up))" ],
+    "priority" : 0
+  }, {
+    "id" : 11343789,
+    "path" : "/Exchanges",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * [@iWantToKnow] [@more] [@info] [about] ([the] (exchang*/(chang*/replac*/swap*) [a/an/the] @item/substitut*)) *", " * [@canYouTellMe] * [@info] [about/on] ([the] (exchang*/(chang*/replac*/swap*) [a/an/the] @item/substitut*)) *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343790,
+    "path" : "/Repair",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * [@iWantToKnow] [@more] [@info] [about] ([the] @repair/{@faulty * (@item/@laptop)}) *", " * [@canYouTellMe] * [@info] [about/on] ([the] @repair/{@faulty * (@item/@laptop)}) *", "@repair" ],
+    "priority" : 0
+  }, {
+    "id" : 11343791,
+    "path" : "/COVID",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * [@iWantToKnow] [@more] [@info] [about] * {@antiCovid * [@precautions/stop*/safe*/{[face*/medical/safety] (*mask*/cover*)}]} *", " * [@canYouTellMe] * [@info] [about/on] * {@antiCovid * [@precautions/stop*/safe*/{[face*/medical/safety] (*mask*/cover*)}]} *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343792,
+    "path" : "/Hello",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "@hello" ],
+    "priority" : 0
+  }, {
+    "id" : 11343793,
+    "path" : "/NoQuestions",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "(No questions/i'm alright/don't bother me)" ],
+    "priority" : 0
+  }, {
+    "id" : 11343794,
+    "path" : "/ShortDescription",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ " * [@iWantToKnow] {[@more] ([@info] about) ([the/this/that] * (@product/@laptop))} *", " * {([[what] @can @you] [please] (@tellMe/@give)) * [@info] ([about/for/on [the/this/that]] * (@product/@laptop/thing))} *", " * [[@can @you] [please] @give] * [a/an/the/some] {[short/brief] * (description*/account*/summary/overview)} * [[of/for] [the/this/that] * (@product/@laptop/thing)] *", " * [[what] @can @you] [please] (@tellMe/@give [@info]) * [about/for/on] ((this/it/that) [one]) *", " ({i [@actually] am}/[i (am/m/i'm/i 'm/find *)] (interest*/curious)/why not/no doubt)" ],
+    "priority" : 0
+  }, {
+    "id" : 11343795,
+    "path" : "/Help",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* help *", "* menu *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343796,
+    "path" : "/Exit",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "exit" ],
+    "priority" : 0
+  }, {
+    "id" : 11343797,
+    "path" : "/AboutItem",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* about item*  *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343798,
+    "path" : "/Care",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* care* *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343799,
+    "path" : "/ModelParameters",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* {model* * param*} *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343800,
+    "path" : "/Length",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "*  length  *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343801,
+    "path" : "/Collection",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* collection *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343802,
+    "path" : "/Charity",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* charity *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343803,
+    "path" : "/DamagedItem",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* (damag*/broken) *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343804,
+    "path" : "/LetMeKnowAboutStock",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* {notif* * stock*} *", "* notif* @me *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343805,
+    "path" : "/Material",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* [kind of] (material*/fabric*) *", "* (polyester/nylon/acrylic/cotton) *", "* (recyclabl*/ingridient) *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343806,
+    "path" : "/Colours",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* (color*/colour*) *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343807,
+    "path" : "/DateTime",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "@duckling.time" ],
+    "priority" : 0
+  }, {
+    "id" : 11343808,
+    "path" : "/Book appointment",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* {@ToBook * @Appointment} *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343809,
+    "path" : "/Order",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Order"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11343810,
+    "path" : "/IsInStock",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* { (are/is/do you have/check) @ClothSizes * @Stock } *", "*{ item* * in @Stock * @ClothSizes} *", "* {@Stock info* * [@ClothSizes]}*", "* {avail* * @colour * @sizes} *", "* {(item*/dress*) * @Stock}  *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343811,
+    "path" : "/FragranceNotes",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* [@Yes] * {@perfume note*} *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343812,
+    "path" : "/Price",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "how much is it"
+    }, {
+      "text" : "tell me the cost"
+    }, {
+      "text" : "how much"
+    }, {
+      "text" : "amount of money i need to pay"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "id" : 11343813,
+    "path" : "/Cheaper",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ "* {similar * cheaper} *" ],
+    "priority" : 0
+  }, {
+    "id" : 11343814,
+    "path" : "/BringItOn",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : " Can someone bring me a sample"
+    }, {
+      "text" : "can i try it"
+    } ],
+    "patterns" : [ ],
     "priority" : 0
   } ],
   "entities" : [ ],

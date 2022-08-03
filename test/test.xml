@@ -1,2 +1,8 @@
 <test>
+    
+    <test-case>
+        <q>eqeqe</q>
+        <a>nomatch</a>
+    </test-case>
+    
 </test>    

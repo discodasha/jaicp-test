@@ -8,7 +8,7 @@ theme: /
 
     state: NoMatch
         event!: noMatch
-        a: Я не понял. Вы сказали: {{$request.query}}
+        a: nomatch
 
     state: Match
         event!: match
