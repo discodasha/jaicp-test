@@ -4,7 +4,7 @@ theme: /
 
     state: Start
         q!: $regex</start>
-        a: Начнём.czxcccxzczxcxzc
+        a: Начнём
 
     state: NoMatch
         event!: noMatch
